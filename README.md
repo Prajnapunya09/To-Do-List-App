@@ -2,7 +2,7 @@
 
 A simple, elegant, and responsive **To-Do List App** built using **HTML**, **CSS**, and **JavaScript**. This project allows users to add tasks, mark them as completed, and delete tasks with a smooth and user-friendly interface.
 
-![To-Do List App Output](https://github.com/Prajnapunya09/To-Do-List-App/blob/main/output%20img(To-Do%20list%20app).jpg)
+![To-Do List App Output]  (https://github.com/Prajnapunya09/To-Do-List-App/blob/main/output%20img(To-Do%20list%20app).jpg)
 
 ---
 
