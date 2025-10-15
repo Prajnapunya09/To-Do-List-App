@@ -6,7 +6,7 @@ A simple, elegant, and responsive **To-Do List App** built using **HTML**, **CSS
 
 ---
 
-## 🚀 Features
+## 🚀  Features
 
 ✔ Add new tasks  
 ✔ Mark tasks as completed (with strike-through style)  
@@ -17,7 +17,7 @@ A simple, elegant, and responsive **To-Do List App** built using **HTML**, **CSS
 
 ---
 
-## 📂 Project Structure
+## 📂  Project Structure
 
 To-Do-List-App/
 ├── index.html # Main HTML file  
